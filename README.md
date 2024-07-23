@@ -53,13 +53,6 @@ A metodologia utilizada envolveu as seguintes etapas:
 * O estudo destaca o potencial do aprendizado de máquina para a identificação de fatores de risco e o desenvolvimento de estratégias de intervenção mais eficazes.
 * Para trabalhos futuros, pretende-se investigar técnicas mais avançadas de balanceamento de dados e a inclusão de atributos adicionais relacionadas à saúde mental.
 
-### Como Executar o Projeto
-
-1. **Clone o repositório:** `git clone https://github.com/seu-usuario/depressao-machine-learning.git`
-2. **Crie um ambiente virtual:** `python3 -m venv env`
-3. **Ative o ambiente virtual:** `source env/bin/activate`
-4. **Instale as dependências:** `pip install -r requirements.txt`
-5. **Execute o script:** `python main.py`
 
 ### Contribuições
 
